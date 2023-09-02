@@ -76,10 +76,20 @@ color:grey;
     text-align:left;
 }
 .col img{
-    width:40px;
+    width:38px;
     margin-right:10px;
 }
 .humidity,.wind{
     font-size:28px;
     margin-top:-6px;
+}
+.weather{
+    display:none;
+}
+.error{
+    text-align:left;
+    margin-left:10px;
+    font-size:14px;
+    margin-top:10px;
+    display:none;
 }
