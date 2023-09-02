@@ -48,6 +48,8 @@ color:grey;
 .search button img{
    
     width:16px;
+    height:30px;
+    object-fit: contain;
   
 }
 .weather-icon{
